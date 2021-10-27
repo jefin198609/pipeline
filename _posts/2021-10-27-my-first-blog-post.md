@@ -4,8 +4,8 @@ as a "bottom-up" approach, gained traction and persisted because it was created 
 and is a flexible practice rather than a rigid framework.
 
 In 2014, Lisa Crispin and Janet Gregory wrote the book More Agile Testing, containing a chapter on testing and DevOps
-
+---
 title: "DEVOPS STACK"
 date: 2021-10-27
-
+---
 
